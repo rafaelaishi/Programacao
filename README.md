@@ -1,2 +1,2 @@
-# Programacao3
+# Programacao
 Criado para guardar todos os projetos feitos na disciplina Programação.
